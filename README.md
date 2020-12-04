@@ -1,0 +1,5 @@
+# PREDICTION DU RISQUE DE DEFAUT DANS LA MICROFINANCE A BUT NON LUCRATIF
+
+
+### Projet Python pour l'économiste
+
